@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\events",
+    "\\events\\templates",
+    "\\events\\templates\\events",
+    "\\media\\images",
+    "\\members\\templates",
+    "\\members\\templates\\authenticate"
+  ],
+  "SelectedNode": "\\events\\views.py",
+  "PreviewInSolutionExplorer": false
+}

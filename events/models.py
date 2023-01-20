@@ -53,3 +53,4 @@ class Event(models.Model):
 		else:
 			thing = "Future"
 		return thing
+
